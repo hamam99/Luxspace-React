@@ -5,7 +5,7 @@ export default function HomePage(props) {
     return (
         <Fragment>
             <Header/>
-            <div class="container mx-auto py-5">
+            <div className="container mx-auto py-5">
                 TESTOMG
             </div>
         </Fragment>
