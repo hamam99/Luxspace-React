@@ -1,13 +1,12 @@
 import React, { Fragment } from 'react'
 import Header from '../parts/Header'
+import Hero from '../parts/Hero'
 
 export default function HomePage(props) {
     return (
         <Fragment>
             <Header/>
-            <div className="container mx-auto py-5">
-                TESTOMG
-            </div>
+            <Hero/>
         </Fragment>
     )
 }
